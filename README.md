@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tears-on-your-pillow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tears On Your Pillow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tears-on-your-pillow/) |
+| **Get License** | [Request Licensing for Tears On Your Pillow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tears-on-your-pillow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the shadows dancing on your face
+> I want to be your favorite hiding place
+> Let me wipe away the memories that ache
+> And leave a tender promise in their wake
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
