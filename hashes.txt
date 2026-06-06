@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tears On Your Pillow
+
+This log tracks the cryptographic history and versioning for the song **Tears On Your Pillow** (tears-on-your-pillow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-06T13:11:53.933832 | `v1` | `4e826a5004e2e4ca3a8726084e4a39d3148e9389f19c7c2d5db51718f3907f77` | `e6d3b3a7b03e6e30f8277c0c8d9116b09e6c151239b2e3e0c647008eb39cfd73` | `2026-06-06_tears-on-your-pillow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

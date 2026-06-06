@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tears-on-your-pillow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tears On Your Pillow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tears-on-your-pillow/) |
+| **Get License** | [Official Music Licensing for Tears On Your Pillow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tears-on-your-pillow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4e826a5004e2e4ca3a8726084e4a39d3148e9389f19c7c2d5db51718f3907f77` |
 | **Timestamp** | June 06, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
